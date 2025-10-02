@@ -263,4 +263,7 @@ class TestAccess {
 ```
 
 ### 📤 Output
+**Output jika umur positif**
 ![Output Program](Gambar/Output.png)
+**Output jika umur negatif**
+![Output Program](Gambar/Output2.png)
